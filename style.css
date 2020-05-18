@@ -38,11 +38,17 @@ a{
 .fora{
     text-align: center;
 }
+.ji{
+    padding-left:200px;
+}
 @media only screen and (max-width: 450px){
   body{
       padding: 0%;
       width: 390px;
   }
+    .ji{
+        padding-left:0px;
+    }
   .container{
       padding: 0%;
       padding-top: 120px;
